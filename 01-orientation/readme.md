@@ -2,7 +2,7 @@
 
 This repository contains a list of installs students need to perform to set up their development environment.
 
-Here's the slideshow for the day: https://slides.com/dmweb/web-remote-orientation#/
+Here's the slideshow for the day: https://slides.com/matias_perez/web-immersive-orientation
 
 ## Environment Setup
 
@@ -59,19 +59,13 @@ Link - https://lms.devmountain.com/login/canvas
 
 Students should recive an email to create an account for the LMS before starting the program. If you do not recieve this email, feel free to reach out to us.
 
-### The Q
-
-Link - http://q.devmountain.com
-
-Introduce the Q to students, and explain expectations for using the Q. It's generally a good idea to recommend the students bookmark the Q so they have it easily accessible.
-
 </details>
 
 # CLI, Git, & GitHub
 
 Mini Project - https://github.com/wlh18/learn-git
 
-Afternoon Project - https://lms.devmountain.com/courses/70/pages/day-1-afternoon-project?module_item_id=17351
+Afternoon Project - https://lms.devmountain.com/courses/115/pages/lab-exercise-computer-and-developer-basics?module_item_id=26854
 
 ## CLI
 
